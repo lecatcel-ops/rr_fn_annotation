@@ -12,7 +12,7 @@ guidelines/
                                  decision rules, and worked examples
 
 corpus/
-  RR ENG Gold_standard_format.zip     Full INCEpTION project export: 91 annotated
+  RR ENG reference_anno_format.zip     Full INCEpTION project export: 91 annotated
                                  reporting requests, source texts, tagsets,
                                  and layer definitions
 
